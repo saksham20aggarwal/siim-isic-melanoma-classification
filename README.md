@@ -43,7 +43,7 @@ We used **EfficientNet [B0-B6]**, **Resnest**,**Resnext**, with Sizes **192x192*
 - Weighted average
 - Power Average
 - Minmax ensemble(didn't help)<br>
-<br>3hr before end of competition we came across rank ensembling and and we did this ensemble and got **0.9697** for our last submission
+
 
 ## Our final Submission
 15+ pytorch model (with context) and 15+ tf models (without context) - 0.9627 (public LB) 0.9470 (private LB) 0.9618 (CV)
